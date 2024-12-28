@@ -1,0 +1,13 @@
+:root{
+    --theme-primary:#41a541;
+    --theme-primary-transparent:rgb(65, 165, 65);
+    --theme-secondary:#033503;
+    --theme-secondary-transparent:rgb(3, 53, 3);
+    --theme-white:#ffffff;
+    --theme-black:#000000;
+
+}
+.top-social-bar{
+    background-color:var(--theme-primary);
+    padding: 12px;
+}
